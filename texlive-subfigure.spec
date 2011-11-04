@@ -64,6 +64,7 @@ new users should use subfig instead.
 %doc %{_texmfdistdir}/source/latex/subfigure/Makefile
 %doc %{_texmfdistdir}/source/latex/subfigure/subfigure.dtx
 %doc %{_texmfdistdir}/source/latex/subfigure/subfigure.ins
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -74,3 +75,5 @@ new users should use subfig instead.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
