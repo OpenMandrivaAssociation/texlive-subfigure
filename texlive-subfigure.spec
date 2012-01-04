@@ -6,7 +6,7 @@
 # catalog-version 2.1.5
 Name:		texlive-subfigure
 Version:	2.1.5
-Release:	1
+Release:	2
 Summary:	Deprecated: Figures divided into subfigures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/obsolete/macros/latex/contrib/subfigure
