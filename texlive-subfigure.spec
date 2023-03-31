@@ -1,6 +1,6 @@
 Name:		texlive-subfigure
 Version:	15878
-Release:	1
+Release:	2
 Summary:	Deprecated: Figures divided into subfigures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/obsolete/macros/latex/contrib/subfigure
