@@ -3,7 +3,7 @@ Version:	15878
 Release:	2
 Summary:	Deprecated: Figures divided into subfigures
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/obsolete/macros/latex/contrib/subfigure
+URL:		https://www.ctan.org/tex-archive/obsolete/macros/latex/contrib/subfigure
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/subfigure.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/subfigure.doc.r%{version}.tar.xz
